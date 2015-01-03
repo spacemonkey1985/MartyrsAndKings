@@ -1,0 +1,62 @@
+.stream {
+	height: 100%;
+	margin-top: -20px;
+}
+.u-photo {
+	display: none;
+}
+.p-name {
+	display: none;
+}
+span.p-nickname {
+	margin-left: 10px;
+	padding-left: 10px;
+	border-left: 1px solid #fca255;
+}
+.header{
+	position: absolute !important;
+	top: 108px;
+	left: 0px;
+	font-family: "Oswald" !important;
+	font-style: normal !important;
+	font-weight: 100 !important;
+	font-size: 22px !important;
+	color: #fca255 !important;
+	width: 100%
+}
+.u-url{
+	font-family: "Oswald" !important;
+	font-style: normal !important;
+	font-weight: 300 !important;
+	font-size: 18px !important;
+	color: #fca255 !important;
+}
+.permalink {
+	float: left !important;
+	margin-left: 60px !important;
+}
+.tweet {
+	margin-left: -50px
+}
+.footer {
+	display: none;
+}
+.retweet-credit {
+	display: none;
+}
+.e-entry-title {
+	font-size: 30px !important;
+	font-family: "Oswald" !important;
+	font-style: normal !important;
+	font-weight: 100 !important;
+	color: #fff !important;
+	line-height: 35px !important;
+	height: 75px !important;
+	margin-top: 5px !important;
+	overflow: hidden !important;
+}
+.e-entry-title a,
+.e-entry-title b,{
+	font-style: normal !important;
+	font-weight: 100 !important;
+}

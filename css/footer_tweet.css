@@ -1,0 +1,60 @@
+.u-photo {
+	display: none;
+}
+.footer {
+	display: none;
+}
+.retweet-credit {
+	display: none;
+}
+.h-feed li {
+	padding-left: 0px !important;
+	margin-bottom: 40px !important;
+}
+.h-entry {
+	padding-left: 0px !important;
+}
+.header {
+	position: absolute !important;
+	bottom: -13px !important;
+	width: 100% !important;
+}
+.retweet-credit {
+	display: none;
+}
+.e-entry-title {
+	font-size: 18px !important;
+	font-family: "Oswald" !important;
+	font-style: normal !important;
+	font-weight: 100 !important;
+	color: #fff !important;
+	line-height: 23px !important;
+	margin-top: -15px !important;
+	overflow: hidden !important;
+}
+.e-entry-title a,
+.e-entry-title b,{
+	font-style: normal !important;
+	font-weight: 100 !important;
+}
+.p-name {
+	font-family: "Oswald" !important;
+	font-style: normal !important;
+	font-weight: 300 !important;
+	font-size: 18px !important;
+	color: #fca255 !important;
+}
+span.p-nickname {
+	font-family: "Oswald" !important;
+	font-style: normal !important;
+	font-weight: 300 !important;
+	font-size: 18px !important;
+	color: #fca255 !important;
+}
+.u-url {
+	font-family: "Oswald" !important;
+	font-style: normal !important;
+	font-weight: 300 !important;
+	font-size: 18px !important;
+	color: #fca255 !important;
+}
